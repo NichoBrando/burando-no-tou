@@ -3,7 +3,7 @@
 
 
 ## Credits
-Special thanks to [Franuka](https://franuka.itch.io/) and [Pixel_Poem](https://pixel-poem.itch.io/dungeon-assetpuck), that made those awesome arts, that are available to buy/download on the links below:
+Special thanks to [Franuka](https://franuka.itch.io/) and [Pixel_Poem](https://pixel-poem.itch.io/), that made those awesome arts, that are available to buy/download on the links below:
 - https://franuka.itch.io/rpg-icon-pack
 - https://franuka.itch.io/rpg-townsfolk-pack
 - https://franuka.itch.io/dungeon-asset-pack
