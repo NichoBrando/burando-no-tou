@@ -10,6 +10,9 @@ Special thanks to [Franuka](https://franuka.itch.io/), that made those awesome a
 
 ## About the game
 You are a fisherman on the Burando Tower, and you need to kill all the 4 knights, on a RPG system.
+![Scenario](https://user-images.githubusercontent.com/62142386/130366611-67a3f344-dea4-43bb-a3f6-01ab9121acab.PNG)
+![BattleScene](https://user-images.githubusercontent.com/62142386/130366671-bb849ab6-74af-486b-9fbc-4f475ab7958f.PNG)
+
 
 ## How to play it
 - Clone this repo on your local machine
