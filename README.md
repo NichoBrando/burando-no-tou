@@ -16,6 +16,7 @@ You are a fisherman on the Burando Tower, and you need to kill all the 4 knights
 
 
 ## How to play it
+- You can play this game in https://nichobrando.github.io/burando-no-tou/, or you can download it locally
 - Clone this repo on your local machine
 - Run yarn or npm install on the web-app folder (NodeJS)
 - Run yarn start or npm run start
