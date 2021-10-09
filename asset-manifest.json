@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/burando-no-tou/static/css/main.0b8dec62.chunk.css",
+    "main.js": "/burando-no-tou/static/js/main.8453e63b.chunk.js",
+    "main.js.map": "/burando-no-tou/static/js/main.8453e63b.chunk.js.map",
+    "runtime-main.js": "/burando-no-tou/static/js/runtime-main.af8809f4.js",
+    "runtime-main.js.map": "/burando-no-tou/static/js/runtime-main.af8809f4.js.map",
+    "static/js/2.188fde91.chunk.js": "/burando-no-tou/static/js/2.188fde91.chunk.js",
+    "static/js/2.188fde91.chunk.js.map": "/burando-no-tou/static/js/2.188fde91.chunk.js.map",
+    "static/js/3.4b96986a.chunk.js": "/burando-no-tou/static/js/3.4b96986a.chunk.js",
+    "static/js/3.4b96986a.chunk.js.map": "/burando-no-tou/static/js/3.4b96986a.chunk.js.map",
+    "index.html": "/burando-no-tou/index.html",
+    "static/css/main.0b8dec62.chunk.css.map": "/burando-no-tou/static/css/main.0b8dec62.chunk.css.map",
+    "static/js/2.188fde91.chunk.js.LICENSE.txt": "/burando-no-tou/static/js/2.188fde91.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af8809f4.js",
+    "static/js/2.188fde91.chunk.js",
+    "static/css/main.0b8dec62.chunk.css",
+    "static/js/main.8453e63b.chunk.js"
+  ]
+}
